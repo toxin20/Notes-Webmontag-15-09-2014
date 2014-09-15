@@ -36,7 +36,7 @@ Feel free to contact us if you have any questions or suggestions.
 
 ### Jonas Jäger
 
-Mail: [jonas@toxinlabs.net](mailto:jonas@toxinlabs.net).
+Mail: [jonas@toxinlabs.net](mailto:jonas@toxinlabs.net)
 Twitter: @toxinlabs
 
 ### Eva Bachmann
